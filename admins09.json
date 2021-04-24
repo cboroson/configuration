@@ -1,8 +1,4 @@
 {
-    "customer_short_name": {
-      "value": "admins09"
-    },
-    "DB_server_name": {
-      "value": "server01"
-    }
+    "customer_short_name": "admins09",
+    "DB_server_name": "server01"
 }
