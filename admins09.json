@@ -1,4 +1,6 @@
 {
     "customer_short_name": "admins09",
-    "DB_server_name": "server01"
+    "DB_server_name": "server01",
+    "App_server_count": 2,
+    "Region": "US-West-1"
 }
